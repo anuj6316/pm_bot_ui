@@ -1,0 +1,6 @@
+{
+  "name": "PM Bot",
+  "description": "AI-powered Project Manager with real-time project risk analysis, dynamic timelines, and intelligent automation feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
